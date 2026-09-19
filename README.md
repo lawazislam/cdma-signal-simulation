@@ -27,4 +27,4 @@ Also runs unmodified in MATLAB.
 
 I ran this in this repo's own history, not just transcribed it: the reconstructed 4x8 matrix at the receiver is checked programmatically against the original transmitted data and matches exactly, every bit, for all four users, confirming the spreading codes are truly orthogonal and the CDMA round trip introduces zero error.
 
-Full report: [`CDMA_Report.pdf`](CDMA_Report.pdf) in this repo.
+Full report: [CDMA_Report.pdf](https://github.com/user-attachments/files/32419142/CDMA_Report.pdf) in this repo.
